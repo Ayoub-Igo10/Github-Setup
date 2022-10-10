@@ -66,3 +66,42 @@ course_name = input()
 print("Are you a UK_resident?")
 UK_resident = input()
 ```
+
+#Week 2
+
+
+# Why Python?
+
+- In comparison to other languages it is easy learn 
+- Versatility, Efficiency, Reliability, and Speed
+- Efficient and reliable
+- Hundreds of Python Libraries and Frameworks
+
+![image](https://user-images.githubusercontent.com/115165899/194916313-8c549e97-bcb4-4306-9178-6e7a735152e7.png)
+
+# What are Python use cases?
+
+- Web development
+- DevOps
+- Data Analysis
+
+
+# Output Console:
+
+![image](https://user-images.githubusercontent.com/115165899/194915988-04d5c30d-3517-43c2-8771-35ae99defb93.png)
+
+
+# Python variables
+
+
+# Data types
+
+- Integer - A whole number
+- String - A sequence of characters
+- Character - Single
+- Booeleon - Value of either true or false
+- Float Number - A number with a decimal point
+d
+
+
+
