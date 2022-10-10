@@ -66,3 +66,34 @@ course_name = input()
 print("Are you a UK_resident?")
 UK_resident = input()
 ```
+
+#Week 2
+
+
+Why Python?
+
+- In comparison to other languages it is easy learn 
+- Versatility, Efficiency, Reliability, and Speed
+- Efficient and reliable
+- Hundreds of Python Libraries and Frameworks
+
+
+
+Python variables
+
+- print("Hello World")
+- print ("Welcome to Sparta Global")
+- first_name = "Ayoub"
+- last_name = "Igozouln"
+
+Data types
+
+- Integer
+- String
+- Character - Single
+- Booeleon - Yes/No
+- Float Number
+
+
+
+
