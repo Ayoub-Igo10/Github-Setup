@@ -4,6 +4,7 @@
 #### Python set up with Pycharm
 ##### Python variables
 
+
 - Env Testing `print("hello world")`
 
 ```python
@@ -65,4 +66,7 @@ print("What is your course name?")
 course_name = input()
 print("Are you a UK_resident?")
 UK_resident = input()
+```
+```python
+print(Hello world)
 ```
