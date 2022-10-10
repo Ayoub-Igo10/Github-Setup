@@ -77,8 +77,6 @@ Why Python?
 - Efficient and reliable
 - Hundreds of Python Libraries and Frameworks
 
-
-
 Python variables
 
 - print("Hello World")
@@ -88,11 +86,11 @@ Python variables
 
 Data types
 
-- Integer
-- String
+- Integer - A whole number
+- String - A sequence of characters
 - Character - Single
-- Booeleon - Yes/No
-- Float Number
+- Booeleon - Value of either true or false
+- Float Number - A number with a decimal point
 
 
 
