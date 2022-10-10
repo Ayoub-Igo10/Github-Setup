@@ -101,7 +101,7 @@ UK_resident = input()
 - Character - Single
 - Booeleon - Value of either true or false
 - Float Number - A number with a decimal point
-
+d
 
 
 
