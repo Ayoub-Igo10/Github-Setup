@@ -138,9 +138,54 @@ print(a > b) # True
 print(a < b) # False
 print(a == b)
 ```
+```python
+# Boolean Builtin methods in Python - Boolean Methods
+# - DRY do not repeat yourself print("")
 
+greeting = "Hello World!"
+print(greeting)
+print(greeting.isalpha())
+print(greeting.islower())
+print(greeting.startswith("H"))
+print(greeting.endswith("!"))_# check if it wnds with specific letter
+print(greeting.isdigit())
+```
+```python
+# String Slicing
+# string indexing - starts from 0
+# H e l l o     W o r l d !
+# 0 1 2 3 4 5 6 7 8 9 10 11
+#                  -3 -2 -1
 
+#greeting = "Hello World!"
+#print(greeting)
+# we have builtin method that checks the length of string
+print(len(greeting))
+print(greeting[0])
 
+greeting = "Hello"
+print(greeting)
+print(len(greeting))
+print(greeting[4])
+```
+```python
+# String methods are available
+
+# # use var =  string "aslkddjalkfjalkdfj                     "
+# white_space = "lot's of spaces at the end                        "
+# print(len(white_space))
+# # strip() removes the white spaces
+# print(len(white_space.strip()))
+# print(print(len(white_space)))
+
+Example_text = "ayoub here's some text with lots of text"
+print(Example_text.count("text"))
+print(Example_text)
+print(Example_text.lower())
+print(Example_text.upper())
+print(Example_text.capitalize())
+print(Example_text.replace("with", ","))
+```
 
 
 
