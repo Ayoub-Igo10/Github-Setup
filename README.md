@@ -85,11 +85,6 @@ UK_resident = input()
 - DevOps
 - Data Analysis
 
-# Diagram
-
-![image](https://user-images.githubusercontent.com/115165899/195044984-9d0b902a-f5d4-4b8b-b837-12882da6b4fd.png)
-
-
 # Output Console:
 
 ![image](https://user-images.githubusercontent.com/115165899/194915988-04d5c30d-3517-43c2-8771-35ae99defb93.png)
