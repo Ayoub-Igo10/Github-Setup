@@ -102,8 +102,23 @@ UK_resident = input()
 - Booeleon - Value of either true or false
 - Float Number - A number with a decimal point
 
-# leila
+# Python Variables
 
-i love you
+- Testing
+- Dynamically typed language
+- Python Variables
+- To store Any data
+- To store user data - hard code the data - any other type
+- ```first_name = "Angel" - string```
+- ```DOB = 99 = int```
+- ```uk_resident = yes or No = Boolean```
+- ```travel = 14.5 - float```
+- ```type = find out type of data```
+
+#```#first_name = "Ayoub"```
+
+#```#last_name = "Igozouln"```
+
+    
 
 
