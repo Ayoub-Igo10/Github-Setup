@@ -70,6 +70,48 @@
 # print(Example_text.capitalize())
 # print(Example_text.replace("with", ","))
 
+# user data input
+# first_name = "ayoub"
+# last_name = "igozouln"
+# salary = 40
+# # print(first_name)
+# # print(last_name)
+# # print(first_name + last_name)
+# # print(first_name + " " + last_name , salary)_# cast int to string using coma instead of +
+# # F - string
+# print(f"Hello {first_name} {last_name} ")_# Python 3.5/6 or above
+
+#
+# print("Good Morning, Please enter your First Name")
+# first_name = input()
+# #
+# print ("Enter Last Name")
+# last_name = input()
+# #
+# print("Enter DOB")
+# DOB = input()
+#
+# print("Are you a Uk resident? Answer Yes or No")
+# uk_resident = input()
+#
+# print("Do you enjoy football Answer Yes or No")
+# Hobbies = input()
+
+Hobbies=input("Can you please enter your Hobbies")
+
+
+print(f'Hello   {first_name}  {last_name} {DOB} {uk_resident} {Hobbies}')
+
+
+
+
+
+
+
+
+
+
+# ayoub igozouln
 
 
 

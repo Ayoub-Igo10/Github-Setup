@@ -138,6 +138,7 @@ print(a > b) # True
 print(a < b) # False
 print(a == b)
 ```
+### Boolean Methods:
 ```python
 # Boolean Builtin methods in Python - Boolean Methods
 # - DRY do not repeat yourself print("")
@@ -150,6 +151,7 @@ print(greeting.startswith("H"))
 print(greeting.endswith("!"))_# check if it wnds with specific letter
 print(greeting.isdigit())
 ```
+### Pyhton slicing/Indexing:
 ```python
 # String Slicing
 # string indexing - starts from 0
@@ -168,6 +170,8 @@ print(greeting)
 print(len(greeting))
 print(greeting[4])
 ```
+
+### Python String methods:
 ```python
 # String methods are available
 
@@ -186,7 +190,23 @@ print(Example_text.upper())
 print(Example_text.capitalize())
 print(Example_text.replace("with", ","))
 ```
+### Task
+```python
+print("Good Morning, Please enter your First Name")
+first_name = input()
+#
+print ("Enter Last Name")
+last_name = input()
+#
+print("Enter DOB")
+DOB = input()
 
+print("Are you a Uk resident? Answer Yes or No")
+uk_resident = input()
+
+print("Do you enjoy football Answer Yes or No")
+Hobbies = input()
+```
 
 
 
