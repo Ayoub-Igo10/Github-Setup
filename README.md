@@ -206,6 +206,11 @@ uk_resident = input()
 
 print("Do you enjoy football Answer Yes or No")
 Hobbies = input()
+
+Hobbies=input("Can you please enter your Hobbies")
+
+
+print(f'Hello   {first_name}  {last_name} {DOB} {uk_resident} {Hobbies}')
 ```
 
 
