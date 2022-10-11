@@ -101,6 +101,12 @@ UK_resident = input()
 - Booeleon - Value of either true or false
 - Float Number - A number with a decimal point
 
-this change is done on github
 
+## Git & Github
+- Add changes to our git-hub reo - the changes that we made on local host
 
+-`git add filename` or `git add .` means push everything from current location
+- `git commit -m "new markdown guide added"`
+- now let's send this new data to github
+- `git push -u origin main`
+- `git status` Will tell us what's changed
