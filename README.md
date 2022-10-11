@@ -110,3 +110,39 @@ UK_resident = input()
 - now let's send this new data to github
 - `git push -u origin main`
 - `git status` Will tell us what's changed
+
+
+
+
+
+
+### Intro to Data types & Operators
+-`+ - * / `
+
+###### Comparison Operators
+- `>` Greater than
+- `<` Less than
+- `==`True or False
+- `>=` Greater than or equal
+- `<=` Less than or equal
+- 
+
+```python
+a = 24
+b = 16
+user_ages = 18
+print(a + b) # outcome added value of a & b
+print(a - b) #outcome - a from b
+# comparison
+print(a > b) # True
+print(a < b) # False
+print(a == b)
+```
+
+
+
+
+
+
+
+
