@@ -102,8 +102,6 @@ UK_resident = input()
 - Booeleon - Value of either true or false
 - Float Number - A number with a decimal point
 
-# leila
 
-i love you
 
 
