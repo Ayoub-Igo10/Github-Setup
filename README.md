@@ -85,7 +85,6 @@ UK_resident = input()
 - DevOps
 - Data Analysis
 
-
 # Output Console:
 
 ![image](https://user-images.githubusercontent.com/115165899/194915988-04d5c30d-3517-43c2-8771-35ae99defb93.png)
@@ -102,24 +101,12 @@ UK_resident = input()
 - Booeleon - Value of either true or false
 - Float Number - A number with a decimal point
 
-# Python Variables
 
-- Testing
-- Dynamically typed language
-- Python Variables
-- To store Any data
-- To store user data - hard code the data - any other type
-- ```first_name = "Angel" - string```
-- ```DOB = 99 = int```
-- ```uk_resident = yes or No = Boolean```
-- ```travel = 14.5 - float```
-- ```type = find out type of data```
+## Git & Github
+- Add changes to our git-hub reo - the changes that we made on local host
 
-#```#first_name = "Ayoub"```
-
-#```#last_name = "Igozouln"```
-
-testing 
-    
-
-
+-`git add filename` or `git add .` means push everything from current location
+- `git commit -m "new markdown guide added"`
+- now let's send this new data to github
+- `git push -u origin main`
+- `git status` Will tell us what's changed
