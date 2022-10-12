@@ -230,9 +230,9 @@ essentials = ("milk", "paracetamol","drinks")
  essentials[0] = "coffee"
  print(essentials)
 ```
+### What is a Dictionary - Data collection type
+### How to manage Dictionaries - How to manage the data using Dict
 ```python
-# What is a Dictionary - Data collection type
-# How to manage Dictionaries - How to manage the data using Dict
 # It works as Key value pair key = value
 # Syntax { "name": "Sparta"         }
 #           # 0       1
