@@ -268,3 +268,29 @@ print(student_1.keys())
 # display values only from student_1
 print(student_1.values())
 ```
+### Superhero Storyline
+```python
+# Dictionary basics :D
+
+
+story_1 = {
+    "Start": "Once upton a time Batman found the villian",
+    "middle": "He had a fight with the villian",
+    "end": "He died to the villian"
+
+}
+print(story_1)
+print(story_1)
+print(type(story_1))
+print(story_1.keys())
+print(story_1.values())
+print(story_1["Start"])
+print(story_1["middle"])
+print(story_1["end"])
+
+story_1["hero"]= "Batman"
+print(story_1)
+
+
+
+```
