@@ -22,6 +22,10 @@ print(student_1["name"])
 print(student_1["completed_lessons_names"])
 print(student_1["completed_lessons_names"][0])
 
+student_1["completed_lessons"] = 3
+print(student_1["completed_lessons"])
+
+
 
 
 
